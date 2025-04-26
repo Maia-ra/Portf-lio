@@ -1,7 +1,7 @@
 # Portfólio - Maiara Rodrigues de Jesus
 
 Bem-vindo(a) ao meu portfólio!  
-Este projeto foi desenvolvido com o objetivo de apresentar minhas habilidades, projetos e trajetória como Desenvolvedora Front-End.
+Este projeto foi desenvolvido com o objetivo de apresentar as habilidades que estou desenvolvendo, projetos e minha trajetória como Desenvolvedora Front-End.
 
 ## 🚀 Tecnologias utilizadas
 - HTML5
