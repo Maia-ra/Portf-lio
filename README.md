@@ -23,5 +23,5 @@ Este projeto foi desenvolvido com o objetivo de apresentar minhas habilidades, p
 
 ## 📬 Contato
 - [LinkedIn](https://www.linkedin.com/in/maiararodriguesj) 
-- [Email: maiara.rodriguesj@gmail.com]
+- [Email:] (maiara.rodriguesj@gmail.com)
 
